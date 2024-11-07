@@ -12,4 +12,9 @@ body {
 .centered {
     text-align: center;
     font-size: 2em;
+    max-width: 90vw;
 } 
+
+.centered img {
+    max-width: 90vw;
+}
